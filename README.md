@@ -2,9 +2,9 @@
 Putting my knowledge of classes to the test by creating a digital school catalog for the New York City Department of Education
 ## Description
 The Department of Education wants the catalog to hold quick reference material for each school in the city.
-We need to create classes for primary and high schools. 
+I need to create classes for primary, middle and high schools. 
 ### Features
-These classes share properties and methods, each will inherit from a parent School class. Our parent and three child classes have the following properties, getters, setters, and methods:
+These classes share properties and methods, each will inherit from a parent School class. My parent and three child classes have the following properties, getters, setters, and methods:
 ####School
 
     -Properties: name (string), level (one of three strings: 'primary', 'middle', or 'high'), and numberOfStudents (integer)
